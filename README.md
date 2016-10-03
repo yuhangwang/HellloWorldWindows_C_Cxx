@@ -1,5 +1,6 @@
-# HellloWorldWindows_C_Cxx
-Compile hello world C/C++ programs on windows command line
+# Hello World on Windows
+Compile hello world C/C++ programs in different languages
+ on windows command line
 
 ## Environment prepration
 * [C](https://msdn.microsoft.com/en-us/library/bb384838.aspx)
